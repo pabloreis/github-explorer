@@ -2,3 +2,7 @@
 
 Project created during GoStack Bootcamp
 
+# Technologies
+
+- ReactJS
+
